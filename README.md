@@ -3,4 +3,4 @@ Collection of plug-and-play base components (patterns or features) for Unity
 
 ## Table of Contents
 
-- [Singleton](#singleton)
+- [Singleton](Components/Singleton)
